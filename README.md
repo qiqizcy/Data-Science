@@ -1,2 +1,3 @@
-# task learning
-python crawler and Spark 
+# learning
+python crawler and Spark
+time series model
