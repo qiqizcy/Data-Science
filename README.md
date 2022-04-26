@@ -1,3 +1,3 @@
 # learning
-python crawler and Spark  
+python crawler   
 time series model - python
